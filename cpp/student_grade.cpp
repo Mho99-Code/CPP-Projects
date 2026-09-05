@@ -6,7 +6,7 @@ int main() {
 
     cout << "Enter the student's grade: ";
     cin >> grade;
-
+    
     if (grade >= 85) {
         cout << "Excellent! " << endl;
     }
